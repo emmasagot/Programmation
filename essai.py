@@ -1,3 +1,4 @@
-print("vivelavie") 
+print("vivelavie")
 
+print(3+3)
 
