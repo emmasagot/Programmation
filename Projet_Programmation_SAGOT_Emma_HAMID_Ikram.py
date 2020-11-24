@@ -27,4 +27,5 @@ plt.title('Data from the CSV File: temp and time')
 plt.xlabel('time')
 plt.ylabel('temp')
 
+#blabla ceci est un test
 # plt.show()
